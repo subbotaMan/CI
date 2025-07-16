@@ -1,4 +1,4 @@
 # Makefile 
 
 say-hello: # Тестовая команда
-		Hello, World!
+	echo "Hello, World!"
